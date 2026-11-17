@@ -34,3 +34,6 @@ Open each board's `.kicad_pro` file in KiCad to view or edit the project. Check
 the corresponding schematic for connector pin assignments and electrical
 requirements before connecting a board. The project directories also contain
 `.zip` archives of the PCB files.
+
+---
+Jeevan Sanchez, 2026
