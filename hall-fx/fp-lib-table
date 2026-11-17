@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TACT_TS1185") (type "KiCad") (uri "${KIPRJMOD}/footprints/TACT_TS1185") (options "") (descr ""))
+	(lib (name "TMAG5273C1QDBVR") (type "KiCad") (uri "${KIPRJMOD}/footprints/TMAG5273C1QDBVR") (options "") (descr ""))
+)
